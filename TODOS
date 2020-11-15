@@ -1,4 +1,13 @@
 List
 =
 Sort override
-...
+
+builtin packages:
+=
+json
+db
+cache
+gw/svc
+svcdisc
+request
+websocket
