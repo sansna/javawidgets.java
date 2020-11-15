@@ -4,3 +4,5 @@ In daily work, some projects utilizes java/scala based tools such as kafka.
 Also consider that most apache foundation supported tools are written in
 Java, I decided to look into some of Java programming basics and project
 structure.
+
+Tutorial tasks from [Java Tutorial](http://tutorials.jenkov.com/java/index.html)
